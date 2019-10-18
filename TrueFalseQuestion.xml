@@ -1,0 +1,10 @@
+<question type="truefalse">
+	<answer fraction="100">
+		<text>Pain au Chocolat</text>
+		<feedback><text>C'est ça</text></feedback>
+	</answer>
+	<answer fraction="0">
+		<ggtext>false</text>
+		<feedback><text>Ah bah non</text></feedback>
+	</answer>
+</question>
